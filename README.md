@@ -2,13 +2,11 @@
 
 <div align="center">
 
-  <!-- Ola animada superior -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rony%20Guerrero&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BI%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Automation&descAlignY=55&descSize=18" />
+  <!-- Banner superior -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c9a7,100:0d1117&height=160&section=header&text=Rony%20Guerrero&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=BI%20%7C%20Data%20Analytics%20%7C%20AI%20%26%20Automation&descAlignY=58&descSize=17" />
 
   <!-- Tipado animado -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=👋+¡Hola!+Soy+Rony+Guerrero;📊+Analista+Líder+de+BI+%26+Eficiencia;🤖+Automatización+e+Inteligencia+Artificial;🚀+Prompt+Engineering+%26+Agentes+de+IA;💡+Transformando+datos+en+decisiones" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Rony+Guerrero!;Analista+Lider+de+BI+%26+Eficiencia;Automatizacion+e+Inteligencia+Artificial;Prompt+Engineering+%26+Agentes+de+IA;Transformando+datos+en+decisiones" alt="Typing SVG" />
 
   <br/>
 
@@ -116,10 +114,11 @@
 
 <div align="center">
 
-  <!-- Ola animada inferior -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+  <!-- Banner inferior -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00c9a7,100:0d1117&height=100&section=footer" />
 
   <sub>Diseñado con ❤️ y "Nano Banana" 🍌 · <a href="https://github.com/Rony0218">@Rony0218</a></sub>
 
 </div>
+
 
