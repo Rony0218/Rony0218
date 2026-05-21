@@ -14,14 +14,14 @@
 
   <!-- Badges de contacto -->
   <p>
-    <a href="https://Rony0218.com">
-      <img src="https://img.shields.io/badge/🌐_Sitio_Web-Rony0218.com-00C9A7?style=for-the-badge&logoColor=white" alt="Sitio Web" />
+    <a href="https://ronyguerrero.com">
+      <img src="https://img.shields.io/badge/🌐_Sitio_Web-ronyguerrero.com-00C9A7?style=for-the-badge&logoColor=white" alt="Sitio Web" />
     </a>
     <a href="https://www.linkedin.com/in/rony-adrian-guerrero-l-37b712245/">
       <img src="https://img.shields.io/badge/LinkedIn-Rony_Guerrero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:Rony0218co@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Rony0218co-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:ronyguerreroco@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-ronyguerreroco-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -122,3 +122,4 @@
   <sub>Diseñado con ❤️ y "Nano Banana" 🍌 · <a href="https://github.com/Rony0218">@Rony0218</a></sub>
 
 </div>
+
